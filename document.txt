@@ -1,0 +1,10 @@
+Introduction
+If you have been following Data Science / Machine Learning, you just can’t miss the buzz around Deep Learning and Neural Networks. Organizations are looking for people with Deep Learning skills wherever they can. From running competitions to open sourcing projects and paying big bonuses, people are trying every possible thing to tap into this limited pool of talent.
+
+Self driving engineers are being hunted by the big guns in automobile industry, as the industry stands on the brink of biggest disruption it faced in last few decades!
+
+If you are excited by the prospects deep learning has to offer, but have not started your journey yet – I am here to enable it. Starting with this article, I will write a series of articles on deep learning covering the popular Deep Learning libraries and their hands-on implementation.
+
+In this article, I will introduce TensorFlow to you. After reading this article you will be able to understand application of neural networks and use TensorFlow to solve a real life problem. This article will require you to know the basics of neural networks and have familiarity with programming. Although the code in this article is in python, I have focused on the concepts and stayed as language-agnostic as possible.
+
+Let’s get started!
